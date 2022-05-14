@@ -1,6 +1,6 @@
 {
-    "git.ignoreLimitWarning": true,
     "files.associations": {
+        "vector": "cpp",
         "atomic": "cpp",
         "cmath": "cpp",
         "compare": "cpp",
@@ -29,7 +29,6 @@
         "type_traits": "cpp",
         "typeinfo": "cpp",
         "utility": "cpp",
-        "vector": "cpp",
         "xfacet": "cpp",
         "xiosbase": "cpp",
         "xlocale": "cpp",
@@ -39,8 +38,6 @@
         "xstddef": "cpp",
         "xstring": "cpp",
         "xtr1common": "cpp",
-        "xutility": "cpp",
-        "random": "cpp",
-        "chrono": "cpp"
+        "xutility": "cpp"
     }
 }
